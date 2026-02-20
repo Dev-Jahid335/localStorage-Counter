@@ -1,5 +1,4 @@
 let count = 0;
-loadCount();
 updateDisplay();
 function updateDisplay() {
   document.getElementById("count").innerText = count;
